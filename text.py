@@ -1,0 +1,7 @@
+greet = "Привет, {name}, я могу показать тебе картинку или скинуть аудиофайл."
+menu = "📍 Главное меню"
+link = "Ссылка на репозиторий проекта: https://github.com/DekkoBraze/MAILabBot"
+image_text = "Вот ваше фото."
+IMG_URL = "http://grizzlycanada.com/wp-content/uploads/2012/09/MG_6929.jpg"
+audio_text = "Вот ваш аудиофайл."
+AUDIO_URL = "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1hPhvgI7i4zJXdJ2BQrgNIyeKBZzQN9wN"
